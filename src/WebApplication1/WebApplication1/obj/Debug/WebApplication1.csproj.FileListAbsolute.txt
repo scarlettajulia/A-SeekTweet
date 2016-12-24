@@ -1,0 +1,346 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Owin.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebGrease.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Providers.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Owin.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Providers.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\LinqToTwitter.AspNet.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\LinqToTwitter.net.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Reactive.Core.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Reactive.Interfaces.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Reactive.Linq.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Reactive.PlatformServices.dll
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Reactive.Core.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Reactive.Interfaces.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Reactive.Linq.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Reactive.PlatformServices.xml
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\LinqToTwitter.AspNet.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\LinqToTwitter.net.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Owin.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\System.Reactive.Core.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\System.Reactive.Interfaces.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\System.Reactive.Linq.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\System.Reactive.PlatformServices.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\System.Reactive.Core.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\System.Reactive.Interfaces.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\System.Reactive.Linq.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\System.Reactive.PlatformServices.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\System.Web.Providers.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\acer\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\LinqToTwitter.AspNet.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\LinqToTwitter.net.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Owin.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\System.Reactive.Core.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\System.Reactive.Interfaces.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\System.Reactive.Linq.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\System.Reactive.PlatformServices.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\System.Reactive.Core.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\System.Reactive.Interfaces.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\System.Reactive.Linq.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\System.Reactive.PlatformServices.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\System.Web.Providers.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\acer\Desktop\shortcut\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
